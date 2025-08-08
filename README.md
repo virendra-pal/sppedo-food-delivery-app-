@@ -11,10 +11,10 @@ Live Demo: [Click Here](https://drive.google.com/file/d/1SfHOLmNphnZVEEQbouq5qQj
 
 💻 Tech Stack:
 
-Frontend: React.js, Tailwind CSS
+Frontend: React.js, CSS
 
 Backend: Node.js, Express.js
 
 Database: MongoDB
 
-Other Tools: Git, GitHub, Vite, Stripe API (Test Mode)
+Other Tools: Git, GitHub, Stripe API (Test Mode)
