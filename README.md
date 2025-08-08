@@ -1,2 +1,13 @@
-# sppedo-food-delivery-app-
-Sppedo is a full-stack food delivery application built with the MERN stack — React for the frontend, Node.js &amp; Express for the backend, and MongoDB for data storage. It enables users to browse menus, place orders, and track deliveries in real-time.
+Sppedo – Food Delivery App 🍔🚴‍♂️
+
+Live Demo: [Click Here](https://drive.google.com/file/d/1SfHOLmNphnZVEEQbouq5qQj6YRn9SICt/view?usp=drive_link)
+
+Tech Stack:
+  React (Frontend)
+  Node.js + Express (Backend)
+  MongoDB (Database)
+
+Features:
+  User authentication & signup/login
+  Add to cart & place order
+  Order tracking
