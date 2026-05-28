@@ -11,10 +11,12 @@ Live Demo: [Click Here](https://drive.google.com/file/d/1SfHOLmNphnZVEEQbouq5qQj
 
 💻 Tech Stack:
 
-Frontend: React.js, CSS
+React.js, CSS - for Frontend
 
-Backend: Node.js, Express.js
+Node.js, Express.js - for backend
 
-Database: MongoDB
+MongoDB - for Database
 
-Other Tools: Git, GitHub, Stripe API (Test Mode)
+Razorpay - for payment gateway
+
+Other Tools: Git, GitHub,  Stripe API (Test Mode)
